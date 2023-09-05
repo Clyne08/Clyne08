@@ -1,6 +1,8 @@
 ### Bahasa Indonesia
 ---
-Halo semuanya, perkenalkan saya Muhammad Ilham Jaya, disini saya hanyalah seorang programmer pemula yang minim skill dan pengetahuan. Mohon bantuannya puh sepuh🙏🙏
+Halo semuanya, perkenalkan saya Muhammad Ilham Jaya,
+disini saya hanyalah seorang programmer pemula yang minim skill dan pengetahuan.
+Mohon bantuannya puh sepuh🙏🙏
 Media Sosial saya:
 ###### •Instagram
 = [Klik Disini](https://www.instagram.com/ilham.j_08)
