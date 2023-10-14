@@ -13,6 +13,6 @@ Media Sosial saya:
 ###### •Dan Lain Lain
 Silahkan cek [disini](https://linktr.ee/ilhamjaya08) untuk informasi Sosial Media saya lebih lanjut
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Clyne08)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Clyne08&show_icons=true&theme=cobalt)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Clyne08)](https://github.com/anuraghazra/github-readme-stats)
